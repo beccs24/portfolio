@@ -4,7 +4,8 @@
 #### Certifications: SAS Certified Specialist: Base Programming Using SAS 9.4
 
 ## Education
-- B.S., Statistics & Data Science, Minor in Spatial Studies (Spatial Science Focus) | University of California, Santa Barbara
+-
+  B.S., Statistics & Data Science, Minor in Spatial Studies (Spatial Science Focus) | University of California, Santa Barbara
 
 #### Relevant Coursework: Python Programming, Principles of Data Science with R, Probability & Statistics I/II, SAS Base Programming, Design of Experiments, Regression Analysis, Statistical Machine Learning, Time Series, Data Science Concepts & Analysis, Advanced Statistical Models, Statistical Data Science, Current: Introduction to Bayesian Data Analysis, Sampling Techniques
 
