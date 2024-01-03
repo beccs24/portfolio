@@ -21,7 +21,7 @@
 - Spearheaded the consistent upkeep of KPI quality assurance reports, expertly managing intricate data on Excel to ensure data accuracy and reliability
 
 ## Projects
-### [Time Series Forecasting of Gold Rates (1985-2021)](https://github.com/beccs24/Time-Series/blob/main/Rebecca%20Chang-174%20final%20project.pdf))
+### [Time Series Forecasting of Gold Rates (1985-2021)](https://github.com/beccs24/Time-Series/blob/main/Rebecca%20Chang-174%20final%20project.pdf)
 
 - Derived actionable economic insights by meticulously analyzing gold rate trends within the context of critical events, such as the 2008 financial crisis and the 2020 pandemic
 - Showcased problem-solving skills while leveraging tools like RStudio and Excel for adept data manipulation, intricate analysis, and compelling visualization
