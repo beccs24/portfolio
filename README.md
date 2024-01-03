@@ -21,16 +21,14 @@
 - Spearheaded the consistent upkeep of KPI quality assurance reports, expertly managing intricate data on Excel to ensure data accuracy and reliability
 
 ## Projects
-### Time Series Forecasting of Gold Rates (1985-2021)
-[https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/beccs24/Time-Series/blob/main/Rebecca%20Chang-174%20final%20project.pdf))
+### [Time Series Forecasting of Gold Rates (1985-2021)](https://github.com/beccs24/Time-Series/blob/main/Rebecca%20Chang-174%20final%20project.pdf))
 
 - Derived actionable economic insights by meticulously analyzing gold rate trends within the context of critical events, such as the 2008 financial crisis and the 2020 pandemic
 - Showcased problem-solving skills while leveraging tools like RStudio and Excel for adept data manipulation, intricate analysis, and compelling visualization
 - Conducted data preprocessing, ACF/PACF analysis, and AICc model selection for accurate predictions and navigated the complexities of model parameter tuning, model selection, and validation
 
 
-### Machine Learning Prediction of NBA 2K21 Player Ratings
-[https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/beccs24/Machine-Learning/blob/main/PSTAT-231-Final-Project.pdf)
+### [Machine Learning Prediction of NBA 2K21 Player Ratings](https://github.com/beccs24/Machine-Learning/blob/main/PSTAT-231-Final-Project.pdf)
 
 - Implemented diverse machine learning approaches, such as Lasso Regression and Boosted Trees, to predict NBA 2K21 player ratings using real game data, achieving a notable low RMSE
 - Conducted comprehensive exploratory data analysis (EDA) on an extensive NBA player statistics dataset, successfully identifying key variables with high predictive influence on player ratings.
